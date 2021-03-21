@@ -1,0 +1,17 @@
+name: "001"
+type: "character"
+img: modules/markers/assets/images/numbers/001.png
+token:
+  disposition: 0
+---
+name: "002"
+type: "character"
+img: modules/markers/assets/images/numbers/002.png
+token:
+  disposition: 0
+---
+name: "003"
+type: "character"
+img: modules/markers/assets/images/numbers/003.png
+token:
+  disposition: 0

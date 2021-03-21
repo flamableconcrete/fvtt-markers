@@ -1,0 +1,17 @@
+{
+  "name": "foundry-vtt-test",
+  "version": "0.0.1",
+  "dependencies": {
+    "cb": "*",
+    "cowsay": "^1.4.0",
+    "gulp": "^4.0.2",
+    "gulp-clean": "*",
+    "gulp-cli": "*",
+    "gulp-zip": "*",
+    "js-yaml": "*",
+    "lolcatjs": "^2.4.0",
+    "merge-stream": "*",
+    "nedb": "*",
+    "through2": "*"
+  }
+}

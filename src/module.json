@@ -1,0 +1,17 @@
+{
+  "name": "markers",
+  "title": "Markers",
+  "description": "A simple module that contains markers (1-100, A-Z, a-z, and some symbols) for a DM to use to mark their maps.",
+  "author": "flamableconcrete",
+  "version": "0.0.1",
+  "minimumCoreVersion": "0.5.0",
+  "compatibleCoreVersion": "0.7.9",
+  "packs": [
+    {
+      "name": "markers",
+      "label": "Markers",
+      "path": "/packs/markers.db",
+      "entity": "Actor"
+    }
+  ]
+}
