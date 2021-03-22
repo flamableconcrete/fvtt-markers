@@ -6,27 +6,27 @@
   "url": "https://github.com/flamableconcrete/fvtt-markers",
   "readme": "https://github.com/flamableconcrete/fvtt-markers/blob/main/README.md",
   "manifest": "https://raw.githubusercontent.com/flamableconcrete/fvtt-markers/main/src/module.json",
-  "version": "0.0.9",
-  "download": "https://github.com/flamableconcrete/fvtt-markers/releases/download/0.0.9/fvtt-markers-v0.0.9.zip",
+  "version": "0.0.10",
+  "download": "https://github.com/flamableconcrete/fvtt-markers/releases/download/0.0.10/fvtt-markers-v0.0.10.zip",
   "minimumCoreVersion": "0.5.0",
   "compatibleCoreVersion": "0.7.9",
   "bugs": "https://github.com/flamableconcrete/fvtt-markers/issues",
   "allowBugReporter": true,
   "packs": [
     {
-      "name": "markers",
+      "name": "markers-alphabet",
       "label": "Markers (Alphabet)",
       "path": "/packs/markers-alphabet.db",
       "entity": "Actor"
     },
     {
-      "name": "markers",
+      "name": "markers-numbers",
       "label": "Markers (numbers)",
       "path": "/packs/markers-numbers.db",
       "entity": "Actor"
     },
     {
-      "name": "markers",
+      "name": "markers-symbols",
       "label": "Markers (Symbols)",
       "path": "/packs/markers-symbols.db",
       "entity": "Actor"
