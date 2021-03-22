@@ -1,0 +1,47 @@
+name: fvtt-markers CI
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    # Run the script that returns the version from `src/module.json`
+    - name: Get Version
+      shell: bash
+      id: get-version
+      run: echo "::set-output name=version::$(node ./.github/workflows/get-version.js)"
+    - uses: bahmutov/npm-install@v1
+    - run: npx gulp build
+    - name: Zip the module
+      working-directory: ./build
+      run: | 
+        zip -r ./fvtt-markers.zip module.json assets/ packs/
+        mv fvtt-markers.zip ..
+    - name: Create Versioned Release
+      id: create_versioned_release
+      uses: ncipollo/release-action@v1
+      with:
+        allowUpdates: true
+        # Use the version in the name
+        name: Release ${{ steps.get-version.outputs.version }}
+        draft: false
+        prerelease: false
+        token: ${{ secrets.GITHUB_TOKEN }}
+        artifacts: './build/module.json,./fvtt-markers.zip'
+        # Use the version as the tag
+        tag: ${{ steps.get-version.outputs.version }}
+    - name: Create Latest Release
+      id: create_latest_release
+      uses: ncipollo/release-action@v1
+      # Only update the latest release when pushing to the master branch
+      if: endsWith(github.ref, 'master')
+      with:
+        allowUpdates: true
+        name: Latest
+        draft: false
+        prerelease: false
+        token: ${{ secrets.GITHUB_TOKEN }}
+        artifacts: './build/module.json,./fvtt-markers.zip'
+        tag: latest
