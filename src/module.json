@@ -5,7 +5,7 @@
   "author": "flamableconcrete",
   "url": "https://github.com/flamableconcrete/fvtt-markers",
   "manifest": "https://raw.githubusercontent.com/flamableconcrete/fvtt-markers/main/src/module.json",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "minimumCoreVersion": "0.5.0",
   "compatibleCoreVersion": "0.7.9",
   "packs": [
