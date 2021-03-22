@@ -14,11 +14,7 @@ jobs:
       run: echo "::set-output name=version::$(node ./.github/workflows/get-version.js)"
     - uses: bahmutov/npm-install@v1
     - run: npx gulp build
-    - name: Zip the module
-      working-directory: ./build
-      run: | 
-        zip -r ./fvtt-markers.zip module.json assets/ packs/
-        mv fvtt-markers.zip ..
+    - run: npx gulp dist
     - name: Create Versioned Release
       id: create_versioned_release
       uses: ncipollo/release-action@v1
@@ -29,7 +25,7 @@ jobs:
         draft: false
         prerelease: false
         token: ${{ secrets.GITHUB_TOKEN }}
-        artifacts: './build/module.json,./fvtt-markers.zip'
+        artifacts: './build/module.json,./dist/fvtt-markers.zip'
         # Use the version as the tag
         tag: ${{ steps.get-version.outputs.version }}
     - name: Create Latest Release
@@ -43,5 +39,5 @@ jobs:
         draft: false
         prerelease: false
         token: ${{ secrets.GITHUB_TOKEN }}
-        artifacts: './build/module.json,./fvtt-markers.zip'
+        artifacts: './build/module.json,./dist/fvtt-markers.zip'
         tag: latest

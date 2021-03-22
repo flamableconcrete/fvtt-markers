@@ -61,7 +61,7 @@ function copyFiles() {
 function createZip() {
   return gulp
     .src(`${BUILD_DIR}/**/*`)
-    .pipe(zip(`foundryvtt-${MODULE.name}-v${MODULE.version}.zip`))
+    .pipe(zip(`fvtt-${MODULE.name}-v${MODULE.version}.zip`))
     .pipe(gulp.dest(DIST_DIR));
 }
 
