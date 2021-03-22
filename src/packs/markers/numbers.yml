@@ -1,17 +1,700 @@
+
+---
 name: "001"
 type: "character"
 img: modules/markers/assets/images/numbers/001.png
 token:
   disposition: 0
+
 ---
 name: "002"
 type: "character"
 img: modules/markers/assets/images/numbers/002.png
 token:
   disposition: 0
+
 ---
 name: "003"
 type: "character"
 img: modules/markers/assets/images/numbers/003.png
+token:
+  disposition: 0
+
+---
+name: "004"
+type: "character"
+img: modules/markers/assets/images/numbers/004.png
+token:
+  disposition: 0
+
+---
+name: "005"
+type: "character"
+img: modules/markers/assets/images/numbers/005.png
+token:
+  disposition: 0
+
+---
+name: "006"
+type: "character"
+img: modules/markers/assets/images/numbers/006.png
+token:
+  disposition: 0
+
+---
+name: "007"
+type: "character"
+img: modules/markers/assets/images/numbers/007.png
+token:
+  disposition: 0
+
+---
+name: "008"
+type: "character"
+img: modules/markers/assets/images/numbers/008.png
+token:
+  disposition: 0
+
+---
+name: "009"
+type: "character"
+img: modules/markers/assets/images/numbers/009.png
+token:
+  disposition: 0
+
+---
+name: "010"
+type: "character"
+img: modules/markers/assets/images/numbers/010.png
+token:
+  disposition: 0
+
+---
+name: "011"
+type: "character"
+img: modules/markers/assets/images/numbers/011.png
+token:
+  disposition: 0
+
+---
+name: "012"
+type: "character"
+img: modules/markers/assets/images/numbers/012.png
+token:
+  disposition: 0
+
+---
+name: "013"
+type: "character"
+img: modules/markers/assets/images/numbers/013.png
+token:
+  disposition: 0
+
+---
+name: "014"
+type: "character"
+img: modules/markers/assets/images/numbers/014.png
+token:
+  disposition: 0
+
+---
+name: "015"
+type: "character"
+img: modules/markers/assets/images/numbers/015.png
+token:
+  disposition: 0
+
+---
+name: "016"
+type: "character"
+img: modules/markers/assets/images/numbers/016.png
+token:
+  disposition: 0
+
+---
+name: "017"
+type: "character"
+img: modules/markers/assets/images/numbers/017.png
+token:
+  disposition: 0
+
+---
+name: "018"
+type: "character"
+img: modules/markers/assets/images/numbers/018.png
+token:
+  disposition: 0
+
+---
+name: "019"
+type: "character"
+img: modules/markers/assets/images/numbers/019.png
+token:
+  disposition: 0
+
+---
+name: "020"
+type: "character"
+img: modules/markers/assets/images/numbers/020.png
+token:
+  disposition: 0
+
+---
+name: "021"
+type: "character"
+img: modules/markers/assets/images/numbers/021.png
+token:
+  disposition: 0
+
+---
+name: "022"
+type: "character"
+img: modules/markers/assets/images/numbers/022.png
+token:
+  disposition: 0
+
+---
+name: "023"
+type: "character"
+img: modules/markers/assets/images/numbers/023.png
+token:
+  disposition: 0
+
+---
+name: "024"
+type: "character"
+img: modules/markers/assets/images/numbers/024.png
+token:
+  disposition: 0
+
+---
+name: "025"
+type: "character"
+img: modules/markers/assets/images/numbers/025.png
+token:
+  disposition: 0
+
+---
+name: "026"
+type: "character"
+img: modules/markers/assets/images/numbers/026.png
+token:
+  disposition: 0
+
+---
+name: "027"
+type: "character"
+img: modules/markers/assets/images/numbers/027.png
+token:
+  disposition: 0
+
+---
+name: "028"
+type: "character"
+img: modules/markers/assets/images/numbers/028.png
+token:
+  disposition: 0
+
+---
+name: "029"
+type: "character"
+img: modules/markers/assets/images/numbers/029.png
+token:
+  disposition: 0
+
+---
+name: "030"
+type: "character"
+img: modules/markers/assets/images/numbers/030.png
+token:
+  disposition: 0
+
+---
+name: "031"
+type: "character"
+img: modules/markers/assets/images/numbers/031.png
+token:
+  disposition: 0
+
+---
+name: "032"
+type: "character"
+img: modules/markers/assets/images/numbers/032.png
+token:
+  disposition: 0
+
+---
+name: "033"
+type: "character"
+img: modules/markers/assets/images/numbers/033.png
+token:
+  disposition: 0
+
+---
+name: "034"
+type: "character"
+img: modules/markers/assets/images/numbers/034.png
+token:
+  disposition: 0
+
+---
+name: "035"
+type: "character"
+img: modules/markers/assets/images/numbers/035.png
+token:
+  disposition: 0
+
+---
+name: "036"
+type: "character"
+img: modules/markers/assets/images/numbers/036.png
+token:
+  disposition: 0
+
+---
+name: "037"
+type: "character"
+img: modules/markers/assets/images/numbers/037.png
+token:
+  disposition: 0
+
+---
+name: "038"
+type: "character"
+img: modules/markers/assets/images/numbers/038.png
+token:
+  disposition: 0
+
+---
+name: "039"
+type: "character"
+img: modules/markers/assets/images/numbers/039.png
+token:
+  disposition: 0
+
+---
+name: "040"
+type: "character"
+img: modules/markers/assets/images/numbers/040.png
+token:
+  disposition: 0
+
+---
+name: "041"
+type: "character"
+img: modules/markers/assets/images/numbers/041.png
+token:
+  disposition: 0
+
+---
+name: "042"
+type: "character"
+img: modules/markers/assets/images/numbers/042.png
+token:
+  disposition: 0
+
+---
+name: "043"
+type: "character"
+img: modules/markers/assets/images/numbers/043.png
+token:
+  disposition: 0
+
+---
+name: "044"
+type: "character"
+img: modules/markers/assets/images/numbers/044.png
+token:
+  disposition: 0
+
+---
+name: "045"
+type: "character"
+img: modules/markers/assets/images/numbers/045.png
+token:
+  disposition: 0
+
+---
+name: "046"
+type: "character"
+img: modules/markers/assets/images/numbers/046.png
+token:
+  disposition: 0
+
+---
+name: "047"
+type: "character"
+img: modules/markers/assets/images/numbers/047.png
+token:
+  disposition: 0
+
+---
+name: "048"
+type: "character"
+img: modules/markers/assets/images/numbers/048.png
+token:
+  disposition: 0
+
+---
+name: "049"
+type: "character"
+img: modules/markers/assets/images/numbers/049.png
+token:
+  disposition: 0
+
+---
+name: "050"
+type: "character"
+img: modules/markers/assets/images/numbers/050.png
+token:
+  disposition: 0
+
+---
+name: "051"
+type: "character"
+img: modules/markers/assets/images/numbers/051.png
+token:
+  disposition: 0
+
+---
+name: "052"
+type: "character"
+img: modules/markers/assets/images/numbers/052.png
+token:
+  disposition: 0
+
+---
+name: "053"
+type: "character"
+img: modules/markers/assets/images/numbers/053.png
+token:
+  disposition: 0
+
+---
+name: "054"
+type: "character"
+img: modules/markers/assets/images/numbers/054.png
+token:
+  disposition: 0
+
+---
+name: "055"
+type: "character"
+img: modules/markers/assets/images/numbers/055.png
+token:
+  disposition: 0
+
+---
+name: "056"
+type: "character"
+img: modules/markers/assets/images/numbers/056.png
+token:
+  disposition: 0
+
+---
+name: "057"
+type: "character"
+img: modules/markers/assets/images/numbers/057.png
+token:
+  disposition: 0
+
+---
+name: "058"
+type: "character"
+img: modules/markers/assets/images/numbers/058.png
+token:
+  disposition: 0
+
+---
+name: "059"
+type: "character"
+img: modules/markers/assets/images/numbers/059.png
+token:
+  disposition: 0
+
+---
+name: "060"
+type: "character"
+img: modules/markers/assets/images/numbers/060.png
+token:
+  disposition: 0
+
+---
+name: "061"
+type: "character"
+img: modules/markers/assets/images/numbers/061.png
+token:
+  disposition: 0
+
+---
+name: "062"
+type: "character"
+img: modules/markers/assets/images/numbers/062.png
+token:
+  disposition: 0
+
+---
+name: "063"
+type: "character"
+img: modules/markers/assets/images/numbers/063.png
+token:
+  disposition: 0
+
+---
+name: "064"
+type: "character"
+img: modules/markers/assets/images/numbers/064.png
+token:
+  disposition: 0
+
+---
+name: "065"
+type: "character"
+img: modules/markers/assets/images/numbers/065.png
+token:
+  disposition: 0
+
+---
+name: "066"
+type: "character"
+img: modules/markers/assets/images/numbers/066.png
+token:
+  disposition: 0
+
+---
+name: "067"
+type: "character"
+img: modules/markers/assets/images/numbers/067.png
+token:
+  disposition: 0
+
+---
+name: "068"
+type: "character"
+img: modules/markers/assets/images/numbers/068.png
+token:
+  disposition: 0
+
+---
+name: "069"
+type: "character"
+img: modules/markers/assets/images/numbers/069.png
+token:
+  disposition: 0
+
+---
+name: "070"
+type: "character"
+img: modules/markers/assets/images/numbers/070.png
+token:
+  disposition: 0
+
+---
+name: "071"
+type: "character"
+img: modules/markers/assets/images/numbers/071.png
+token:
+  disposition: 0
+
+---
+name: "072"
+type: "character"
+img: modules/markers/assets/images/numbers/072.png
+token:
+  disposition: 0
+
+---
+name: "073"
+type: "character"
+img: modules/markers/assets/images/numbers/073.png
+token:
+  disposition: 0
+
+---
+name: "074"
+type: "character"
+img: modules/markers/assets/images/numbers/074.png
+token:
+  disposition: 0
+
+---
+name: "075"
+type: "character"
+img: modules/markers/assets/images/numbers/075.png
+token:
+  disposition: 0
+
+---
+name: "076"
+type: "character"
+img: modules/markers/assets/images/numbers/076.png
+token:
+  disposition: 0
+
+---
+name: "077"
+type: "character"
+img: modules/markers/assets/images/numbers/077.png
+token:
+  disposition: 0
+
+---
+name: "078"
+type: "character"
+img: modules/markers/assets/images/numbers/078.png
+token:
+  disposition: 0
+
+---
+name: "079"
+type: "character"
+img: modules/markers/assets/images/numbers/079.png
+token:
+  disposition: 0
+
+---
+name: "080"
+type: "character"
+img: modules/markers/assets/images/numbers/080.png
+token:
+  disposition: 0
+
+---
+name: "081"
+type: "character"
+img: modules/markers/assets/images/numbers/081.png
+token:
+  disposition: 0
+
+---
+name: "082"
+type: "character"
+img: modules/markers/assets/images/numbers/082.png
+token:
+  disposition: 0
+
+---
+name: "083"
+type: "character"
+img: modules/markers/assets/images/numbers/083.png
+token:
+  disposition: 0
+
+---
+name: "084"
+type: "character"
+img: modules/markers/assets/images/numbers/084.png
+token:
+  disposition: 0
+
+---
+name: "085"
+type: "character"
+img: modules/markers/assets/images/numbers/085.png
+token:
+  disposition: 0
+
+---
+name: "086"
+type: "character"
+img: modules/markers/assets/images/numbers/086.png
+token:
+  disposition: 0
+
+---
+name: "087"
+type: "character"
+img: modules/markers/assets/images/numbers/087.png
+token:
+  disposition: 0
+
+---
+name: "088"
+type: "character"
+img: modules/markers/assets/images/numbers/088.png
+token:
+  disposition: 0
+
+---
+name: "089"
+type: "character"
+img: modules/markers/assets/images/numbers/089.png
+token:
+  disposition: 0
+
+---
+name: "090"
+type: "character"
+img: modules/markers/assets/images/numbers/090.png
+token:
+  disposition: 0
+
+---
+name: "091"
+type: "character"
+img: modules/markers/assets/images/numbers/091.png
+token:
+  disposition: 0
+
+---
+name: "092"
+type: "character"
+img: modules/markers/assets/images/numbers/092.png
+token:
+  disposition: 0
+
+---
+name: "093"
+type: "character"
+img: modules/markers/assets/images/numbers/093.png
+token:
+  disposition: 0
+
+---
+name: "094"
+type: "character"
+img: modules/markers/assets/images/numbers/094.png
+token:
+  disposition: 0
+
+---
+name: "095"
+type: "character"
+img: modules/markers/assets/images/numbers/095.png
+token:
+  disposition: 0
+
+---
+name: "096"
+type: "character"
+img: modules/markers/assets/images/numbers/096.png
+token:
+  disposition: 0
+
+---
+name: "097"
+type: "character"
+img: modules/markers/assets/images/numbers/097.png
+token:
+  disposition: 0
+
+---
+name: "098"
+type: "character"
+img: modules/markers/assets/images/numbers/098.png
+token:
+  disposition: 0
+
+---
+name: "099"
+type: "character"
+img: modules/markers/assets/images/numbers/099.png
+token:
+  disposition: 0
+
+---
+name: "100"
+type: "character"
+img: modules/markers/assets/images/numbers/100.png
 token:
   disposition: 0

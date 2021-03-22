@@ -3,7 +3,9 @@
   "title": "Markers",
   "description": "A simple module that contains markers (1-100, A-Z, a-z, and some symbols) for a DM to use to mark their maps.",
   "author": "flamableconcrete",
-  "version": "0.0.1",
+  "url": "https://github.com/flamableconcrete/fvtt-markers",
+  "manifest": "https://raw.githubusercontent.com/flamableconcrete/fvtt-markers/main/src/module.json",
+  "version": "0.0.2",
   "minimumCoreVersion": "0.5.0",
   "compatibleCoreVersion": "0.7.9",
   "packs": [

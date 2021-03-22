@@ -1,0 +1,182 @@
+
+---
+name: "A"
+type: "character"
+img: modules/markers/assets/images/letters/upper_a.png
+token:
+  disposition: 0
+
+---
+name: "B"
+type: "character"
+img: modules/markers/assets/images/letters/upper_b.png
+token:
+  disposition: 0
+
+---
+name: "C"
+type: "character"
+img: modules/markers/assets/images/letters/upper_c.png
+token:
+  disposition: 0
+
+---
+name: "D"
+type: "character"
+img: modules/markers/assets/images/letters/upper_d.png
+token:
+  disposition: 0
+
+---
+name: "E"
+type: "character"
+img: modules/markers/assets/images/letters/upper_e.png
+token:
+  disposition: 0
+
+---
+name: "F"
+type: "character"
+img: modules/markers/assets/images/letters/upper_f.png
+token:
+  disposition: 0
+
+---
+name: "G"
+type: "character"
+img: modules/markers/assets/images/letters/upper_g.png
+token:
+  disposition: 0
+
+---
+name: "H"
+type: "character"
+img: modules/markers/assets/images/letters/upper_h.png
+token:
+  disposition: 0
+
+---
+name: "I"
+type: "character"
+img: modules/markers/assets/images/letters/upper_i.png
+token:
+  disposition: 0
+
+---
+name: "J"
+type: "character"
+img: modules/markers/assets/images/letters/upper_j.png
+token:
+  disposition: 0
+
+---
+name: "K"
+type: "character"
+img: modules/markers/assets/images/letters/upper_k.png
+token:
+  disposition: 0
+
+---
+name: "L"
+type: "character"
+img: modules/markers/assets/images/letters/upper_l.png
+token:
+  disposition: 0
+
+---
+name: "M"
+type: "character"
+img: modules/markers/assets/images/letters/upper_m.png
+token:
+  disposition: 0
+
+---
+name: "N"
+type: "character"
+img: modules/markers/assets/images/letters/upper_n.png
+token:
+  disposition: 0
+
+---
+name: "O"
+type: "character"
+img: modules/markers/assets/images/letters/upper_o.png
+token:
+  disposition: 0
+
+---
+name: "P"
+type: "character"
+img: modules/markers/assets/images/letters/upper_p.png
+token:
+  disposition: 0
+
+---
+name: "Q"
+type: "character"
+img: modules/markers/assets/images/letters/upper_q.png
+token:
+  disposition: 0
+
+---
+name: "R"
+type: "character"
+img: modules/markers/assets/images/letters/upper_r.png
+token:
+  disposition: 0
+
+---
+name: "S"
+type: "character"
+img: modules/markers/assets/images/letters/upper_s.png
+token:
+  disposition: 0
+
+---
+name: "T"
+type: "character"
+img: modules/markers/assets/images/letters/upper_t.png
+token:
+  disposition: 0
+
+---
+name: "U"
+type: "character"
+img: modules/markers/assets/images/letters/upper_u.png
+token:
+  disposition: 0
+
+---
+name: "V"
+type: "character"
+img: modules/markers/assets/images/letters/upper_v.png
+token:
+  disposition: 0
+
+---
+name: "W"
+type: "character"
+img: modules/markers/assets/images/letters/upper_w.png
+token:
+  disposition: 0
+
+---
+name: "X"
+type: "character"
+img: modules/markers/assets/images/letters/upper_x.png
+token:
+  disposition: 0
+
+---
+name: "Y"
+type: "character"
+img: modules/markers/assets/images/letters/upper_y.png
+token:
+  disposition: 0
+
+---
+name: "Z"
+type: "character"
+img: modules/markers/assets/images/letters/upper_z.png
+token:
+  disposition: 0
