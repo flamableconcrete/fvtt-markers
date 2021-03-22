@@ -25,19 +25,19 @@ jobs:
         draft: false
         prerelease: false
         token: ${{ secrets.GITHUB_TOKEN }}
-        artifacts: './build/module.json,./dist/fvtt-markers.zip'
+        artifacts: './build/module.json,./dist/fvtt-markers-v${{ steps.get-version.outputs.version }}.zip'
         # Use the version as the tag
         tag: ${{ steps.get-version.outputs.version }}
     - name: Create Latest Release
       id: create_latest_release
       uses: ncipollo/release-action@v1
       # Only update the latest release when pushing to the master branch
-      if: endsWith(github.ref, 'master')
+      if: endsWith(github.ref, 'main')
       with:
         allowUpdates: true
         name: Latest
         draft: false
         prerelease: false
         token: ${{ secrets.GITHUB_TOKEN }}
-        artifacts: './build/module.json,./dist/fvtt-markers.zip'
+        artifacts: './build/module.json,./dist/fvtt-markers-v${{ steps.get-version.outputs.version }}.zip'
         tag: latest
