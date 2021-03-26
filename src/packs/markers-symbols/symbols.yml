@@ -4,6 +4,7 @@ name: "Asterisk"
 type: "character"
 img: modules/markers/assets/images/symbols/symbol_asterisk.png
 token:
+  actorLink: true
   disposition: 0
 
 ---
@@ -11,6 +12,7 @@ name: "At"
 type: "character"
 img: modules/markers/assets/images/symbols/symbol_at.png
 token:
+  actorLink: true
   disposition: 0
 
 ---
@@ -18,6 +20,7 @@ name: "Backslash"
 type: "character"
 img: modules/markers/assets/images/symbols/symbol_backslash.png
 token:
+  actorLink: true
   disposition: 0
 
 ---
@@ -25,6 +28,7 @@ name: "Dollar"
 type: "character"
 img: modules/markers/assets/images/symbols/symbol_dollar.png
 token:
+  actorLink: true
   disposition: 0
 
 ---
@@ -32,6 +36,7 @@ name: "Equals"
 type: "character"
 img: modules/markers/assets/images/symbols/symbol_equals.png
 token:
+  actorLink: true
   disposition: 0
 
 ---
@@ -39,6 +44,7 @@ name: "Exclamation"
 type: "character"
 img: modules/markers/assets/images/symbols/symbol_exclamation.png
 token:
+  actorLink: true
   disposition: 0
 
 ---
@@ -46,6 +52,7 @@ name: "Forwardslash"
 type: "character"
 img: modules/markers/assets/images/symbols/symbol_forwardslash.png
 token:
+  actorLink: true
   disposition: 0
 
 ---
@@ -53,6 +60,7 @@ name: "Minus"
 type: "character"
 img: modules/markers/assets/images/symbols/symbol_minus.png
 token:
+  actorLink: true
   disposition: 0
 
 ---
@@ -60,6 +68,7 @@ name: "Percent"
 type: "character"
 img: modules/markers/assets/images/symbols/symbol_percent.png
 token:
+  actorLink: true
   disposition: 0
 
 ---
@@ -67,6 +76,7 @@ name: "Plus"
 type: "character"
 img: modules/markers/assets/images/symbols/symbol_plus.png
 token:
+  actorLink: true
   disposition: 0
 
 ---
@@ -74,6 +84,7 @@ name: "Pound"
 type: "character"
 img: modules/markers/assets/images/symbols/symbol_pound.png
 token:
+  actorLink: true
   disposition: 0
 
 ---
@@ -81,4 +92,5 @@ name: "Question"
 type: "character"
 img: modules/markers/assets/images/symbols/symbol_question.png
 token:
+  actorLink: true
   disposition: 0

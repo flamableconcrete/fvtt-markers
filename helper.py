@@ -4,7 +4,7 @@ from textwrap import dedent
 
 
 def generate_numbers_file():
-    numbers_file = Path("src/packs/markers/numbers.yml")
+    numbers_file = Path("src/packs/markers-numbers/numbers.yml")
     numbers_file.unlink(missing_ok=True)
 
     for n in range(1, 101):
@@ -15,12 +15,13 @@ def generate_numbers_file():
     type: "character"
     img: modules/markers/assets/images/numbers/{n:03}.png
     token:
+      actorLink: true
       disposition: 0""")
         print(entry, file=open(numbers_file, "a"))
 
 
 def generate_alphabet_files():
-    alphabet_file = Path("src/packs/markers/alphabet_lower.yml")
+    alphabet_file = Path("src/packs/markers-alphabet-lower/alphabet_lower.yml")
     alphabet_file.unlink(missing_ok=True)
     for l in range(len(ascii_lowercase)):
         letter = ascii_lowercase[l]
@@ -30,10 +31,11 @@ def generate_alphabet_files():
     type: "character"
     img: modules/markers/assets/images/letters/lower_{letter}.png
     token:
+      actorLink: true
       disposition: 0""")
         print(entry, file=open(alphabet_file, "a"))
 
-    alphabet_file = Path("src/packs/markers/alphabet_upper.yml")
+    alphabet_file = Path("src/packs/markers-alphabet-upper/alphabet_upper.yml")
     alphabet_file.unlink(missing_ok=True)
     for l in range(len(ascii_uppercase)):
         letter = ascii_uppercase[l]
@@ -43,12 +45,13 @@ def generate_alphabet_files():
     type: "character"
     img: modules/markers/assets/images/letters/upper_{letter.lower()}.png
     token:
+      actorLink: true
       disposition: 0""")
         print(entry, file=open(alphabet_file, "a"))
 
 
 def generate_symbols_file():
-    symbols_file = Path("src/packs/markers/symbols.yml")
+    symbols_file = Path("src/packs/markers-symbols/symbols.yml")
     symbols_file.unlink(missing_ok=True)
 
     symbols = [
@@ -74,6 +77,7 @@ def generate_symbols_file():
     type: "character"
     img: modules/markers/assets/images/symbols/symbol_{symbol}.png
     token:
+      actorLink: true
       disposition: 0""")
         print(entry, file=open(symbols_file, "a"))
 

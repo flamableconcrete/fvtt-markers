@@ -4,6 +4,7 @@ name: "a"
 type: "character"
 img: modules/markers/assets/images/letters/lower_a.png
 token:
+  actorLink: true
   disposition: 0
 
 ---
@@ -11,6 +12,7 @@ name: "b"
 type: "character"
 img: modules/markers/assets/images/letters/lower_b.png
 token:
+  actorLink: true
   disposition: 0
 
 ---
@@ -18,6 +20,7 @@ name: "c"
 type: "character"
 img: modules/markers/assets/images/letters/lower_c.png
 token:
+  actorLink: true
   disposition: 0
 
 ---
@@ -25,6 +28,7 @@ name: "d"
 type: "character"
 img: modules/markers/assets/images/letters/lower_d.png
 token:
+  actorLink: true
   disposition: 0
 
 ---
@@ -32,6 +36,7 @@ name: "e"
 type: "character"
 img: modules/markers/assets/images/letters/lower_e.png
 token:
+  actorLink: true
   disposition: 0
 
 ---
@@ -39,6 +44,7 @@ name: "f"
 type: "character"
 img: modules/markers/assets/images/letters/lower_f.png
 token:
+  actorLink: true
   disposition: 0
 
 ---
@@ -46,6 +52,7 @@ name: "g"
 type: "character"
 img: modules/markers/assets/images/letters/lower_g.png
 token:
+  actorLink: true
   disposition: 0
 
 ---
@@ -53,6 +60,7 @@ name: "h"
 type: "character"
 img: modules/markers/assets/images/letters/lower_h.png
 token:
+  actorLink: true
   disposition: 0
 
 ---
@@ -60,6 +68,7 @@ name: "i"
 type: "character"
 img: modules/markers/assets/images/letters/lower_i.png
 token:
+  actorLink: true
   disposition: 0
 
 ---
@@ -67,6 +76,7 @@ name: "j"
 type: "character"
 img: modules/markers/assets/images/letters/lower_j.png
 token:
+  actorLink: true
   disposition: 0
 
 ---
@@ -74,6 +84,7 @@ name: "k"
 type: "character"
 img: modules/markers/assets/images/letters/lower_k.png
 token:
+  actorLink: true
   disposition: 0
 
 ---
@@ -81,6 +92,7 @@ name: "l"
 type: "character"
 img: modules/markers/assets/images/letters/lower_l.png
 token:
+  actorLink: true
   disposition: 0
 
 ---
@@ -88,6 +100,7 @@ name: "m"
 type: "character"
 img: modules/markers/assets/images/letters/lower_m.png
 token:
+  actorLink: true
   disposition: 0
 
 ---
@@ -95,6 +108,7 @@ name: "n"
 type: "character"
 img: modules/markers/assets/images/letters/lower_n.png
 token:
+  actorLink: true
   disposition: 0
 
 ---
@@ -102,6 +116,7 @@ name: "o"
 type: "character"
 img: modules/markers/assets/images/letters/lower_o.png
 token:
+  actorLink: true
   disposition: 0
 
 ---
@@ -109,6 +124,7 @@ name: "p"
 type: "character"
 img: modules/markers/assets/images/letters/lower_p.png
 token:
+  actorLink: true
   disposition: 0
 
 ---
@@ -116,6 +132,7 @@ name: "q"
 type: "character"
 img: modules/markers/assets/images/letters/lower_q.png
 token:
+  actorLink: true
   disposition: 0
 
 ---
@@ -123,6 +140,7 @@ name: "r"
 type: "character"
 img: modules/markers/assets/images/letters/lower_r.png
 token:
+  actorLink: true
   disposition: 0
 
 ---
@@ -130,6 +148,7 @@ name: "s"
 type: "character"
 img: modules/markers/assets/images/letters/lower_s.png
 token:
+  actorLink: true
   disposition: 0
 
 ---
@@ -137,6 +156,7 @@ name: "t"
 type: "character"
 img: modules/markers/assets/images/letters/lower_t.png
 token:
+  actorLink: true
   disposition: 0
 
 ---
@@ -144,6 +164,7 @@ name: "u"
 type: "character"
 img: modules/markers/assets/images/letters/lower_u.png
 token:
+  actorLink: true
   disposition: 0
 
 ---
@@ -151,6 +172,7 @@ name: "v"
 type: "character"
 img: modules/markers/assets/images/letters/lower_v.png
 token:
+  actorLink: true
   disposition: 0
 
 ---
@@ -158,6 +180,7 @@ name: "w"
 type: "character"
 img: modules/markers/assets/images/letters/lower_w.png
 token:
+  actorLink: true
   disposition: 0
 
 ---
@@ -165,6 +188,7 @@ name: "x"
 type: "character"
 img: modules/markers/assets/images/letters/lower_x.png
 token:
+  actorLink: true
   disposition: 0
 
 ---
@@ -172,6 +196,7 @@ name: "y"
 type: "character"
 img: modules/markers/assets/images/letters/lower_y.png
 token:
+  actorLink: true
   disposition: 0
 
 ---
@@ -179,4 +204,5 @@ name: "z"
 type: "character"
 img: modules/markers/assets/images/letters/lower_z.png
 token:
+  actorLink: true
   disposition: 0
